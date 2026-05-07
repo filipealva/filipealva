@@ -12,7 +12,6 @@ In mid-2024 I started building with AI agents as first-class collaborators, not 
 
 - **Agentic engineering at scale**, using AI agents as autonomous teammates that ship real code across entire codebases
 - **Building and leading engineering teams** as CTO, with a bias for small teams that move fast and punch above their weight
-- Open-source tooling for agentic workflows like [claude-virtual-workspace](https://github.com/filipealva/claude-virtual-workspace)
 
 ---
 
