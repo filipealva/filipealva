@@ -45,4 +45,4 @@ I care about shipping. Architecture matters, but only when it serves velocity. I
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-filipealva-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/filipealva)
 [![Twitter](https://img.shields.io/badge/Twitter-@filipealva-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/filipealva)
-[![Website](https://img.shields.io/badge/doubleslitapps.com-000?style=flat&logo=safari&logoColor=white)](https://doubleslitapps.com/about)
+[![Email](https://img.shields.io/badge/ofilipealvarenga@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ofilipealvarenga@gmail.com)
