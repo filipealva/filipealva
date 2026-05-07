@@ -1,40 +1,48 @@
-# Filipe Alvarenga
+# Hey, I'm Filipe Alvarenga
 
-**Senior iOS Software Engineer | Open-Source Contributor | AI Enthusiast**
+### CTO, builder, and one of the earliest adopters of agentic software engineering.
 
-I'm a software engineer based in Miami with over 10 years of experience building iOS applications using Swift and Objective-C. I'm passionate about crafting polished mobile experiences, contributing to open-source projects, and integrating AI into everyday tools.
+I've been shipping products for over a decade — from native iOS apps to full-stack platforms. I've been a founding engineer multiple times, building from zero to launch at early-stage startups where speed, ownership, and wearing every hat is the default.
 
-I'm an Apple Developer Academy alumnus and WWDC15 Scholarship winner. Currently building at [Pinned Social](https://github.com/Pinned-Social) and shipping indie apps through [Double Slit Apps](https://doubleslitapps.com/about).
+In mid-2024, I went all-in on agentic engineering. While most teams were still debating whether AI could write production code, I was already building with AI agents as first-class collaborators — designing workflows, shipping features, and rethinking how software gets built from the ground up. I haven't looked back.
 
-## Open-Source Highlights
+---
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [PickerView](https://github.com/filipealva/PickerView) | A customizable alternative to UIPickerView in Swift | 527+ |
-| [Rocket.Chat iOS](https://github.com/RocketChat/Rocket.Chat.iOS) | Contributed to the native iOS client for Rocket.Chat | 1K+ |
-| [claude-virtual-workspace](https://github.com/filipealva/claude-virtual-workspace) | Claude Code plugin for multi-repo virtual workspaces | 6+ |
-| [Cepp](https://github.com/filipealva/Cepp) | One of the earliest open-source apps written in Swift | 18+ |
-| [Descartae](https://github.com/descartae) | Co-founded an environmental platform for waste disposal mapping | 8+ |
+### What I'm focused on now
 
-## What I Work With
+- **Agentic engineering at scale** — using AI agents not as autocomplete, but as autonomous teammates that ship real code across entire codebases
+- **[claude-virtual-workspace](https://github.com/filipealva/claude-virtual-workspace)** — an open-source Claude Code plugin I built for managing multi-repo workspaces with unified agents, commands, and hooks
+- **Building and leading engineering teams** as CTO, with a bias for small teams that move fast and punch above their weight
 
-**Languages:** Swift, Objective-C, TypeScript, Kotlin, Shell  
-**Platforms:** iOS, iPadOS, watchOS, macOS  
-**Tools & Frameworks:** SwiftUI, UIKit, Xcode, GraphQL, Firebase, Claude Code  
-**Interests:** AI-assisted development, mobile architecture, developer tooling
+---
 
-## Career Highlights
+### Things I've built along the way
 
-- Built and shipped iOS apps used by millions across consumer, social, and enterprise products
-- Created [PickerView](https://github.com/filipealva/PickerView), a widely adopted open-source Swift UI component with 527+ GitHub stars
-- Contributed to [Rocket.Chat](https://github.com/RocketChat), the open-source communications platform (45K+ stars)
-- Won the Apple WWDC 2015 Scholarship
-- Co-founded [Descartae](https://github.com/descartae), an open-source environmental initiative mapping waste disposal facilities in Brazil
-- 1,700+ GitHub contributions in the past year
+**[PickerView](https://github.com/filipealva/PickerView)** — a Swift UI component used by thousands of iOS developers worldwide (527+ stars). One of the most popular custom picker libraries for iOS.
 
-## Let's Connect
+**[Rocket.Chat](https://github.com/RocketChat)** — helped build the native iOS client for one of the largest open-source communication platforms (45K+ stars on the main repo).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-filipealva-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/filipealva)
-[![Twitter](https://img.shields.io/badge/Twitter-@filipealva-1DA1F2?style=flat&logo=twitter)](https://twitter.com/filipealva)
-[![Website](https://img.shields.io/badge/Website-doubleslitapps.com-000?style=flat&logo=safari)](https://doubleslitapps.com/about)
-[![Email](https://img.shields.io/badge/Email-ofilipealvarenga@gmail.com-EA4335?style=flat&logo=gmail)](mailto:ofilipealvarenga@gmail.com)
+**Multiple early-stage startups** — founding engineer building the first lines of code, setting up architecture, hiring the initial team, and getting to product-market fit.
+
+---
+
+### How I think about building
+
+I don't separate "AI tools" from "real engineering." The agent is the workflow now. I design systems where humans set direction and agents execute — with real autonomy, not just suggestions. The companies that figure this out first will build 10x faster with 10x smaller teams.
+
+I care about shipping. Architecture matters, but only when it serves velocity. I'd rather have something live and learning than something perfect and theoretical.
+
+---
+
+### The stack
+
+**Core:** Swift, TypeScript, Kotlin  
+**Mobile:** SwiftUI, UIKit, iOS/macOS  
+**AI & Agents:** Claude Code, agentic workflows, MCP, prompt engineering  
+**Infrastructure:** GraphQL, Firebase, Supabase
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-filipealva-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/filipealva)
+[![Twitter](https://img.shields.io/badge/Twitter-@filipealva-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/filipealva)
+[![Website](https://img.shields.io/badge/doubleslitapps.com-000?style=flat&logo=safari&logoColor=white)](https://doubleslitapps.com/about)
