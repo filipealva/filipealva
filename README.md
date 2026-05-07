@@ -18,6 +18,8 @@ In mid-2024 I started building with AI agents as first-class collaborators, not 
 
 ### Things I've built along the way
 
+**claude-virtual-workspace](https://github.com/filipealva/claude-virtual-workspace)**: a simple skill that helps creating virtual workspaces for Claude Code.
+
 **[PickerView](https://github.com/filipealva/PickerView)** is a SwiftUI/UIKit component used by thousands of iOS developers worldwide (527+ stars). One of the most popular custom picker libraries for iOS.
 
 **[Rocket.Chat](https://github.com/RocketChat)**: helped build the native iOS client for one of the largest open-source communication platforms (45K+ stars on the main repo).
