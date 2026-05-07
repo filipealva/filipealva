@@ -24,6 +24,8 @@ In mid-2024 I started building with AI agents as first-class collaborators, not 
 
 **[Rocket.Chat](https://github.com/RocketChat)**: helped build the native iOS client for one of the largest open-source communication platforms (45K+ stars on the main repo).
 
+**[Spoke](https://spoke.com/)**: first employee and iOS lead. Ran the iOS team from the ground up, growing the platform from a few hundred thousand in iOS ARR to multi-million ARR. The app was known for butter-smooth performance and users genuinely loved it.
+
 **Multiple early-stage startups** as founding engineer, building the first lines of code, setting up architecture, hiring the initial team, and getting to product-market fit.
 
 ---
