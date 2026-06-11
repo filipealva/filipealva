@@ -17,6 +17,10 @@ In mid-2024 I started building with AI agents as first-class collaborators, not 
 
 ### Things I've built along the way
 
+**[swift-teleport](https://github.com/filipealva/swift-teleport)**: teleport views during transitions preserving state and preload expensive views out of the screen to reuse them throughout your code.
+
+**[routekit](https://github.com/filipealva/RouteKit)**: a lightweight UIKit Coordinator library to help you manage navigation. Interoperable with SwiftUI.
+
 **[virtual-workspace](https://github.com/filipealva/virtual-workspace)**: a simple skill that helps creating virtual workspaces for Claude Code.
 
 **[PickerView](https://github.com/filipealva/PickerView)** is a SwiftUI/UIKit component used by thousands of iOS developers worldwide (500+ stars).
